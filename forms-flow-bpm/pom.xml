@@ -22,7 +22,7 @@
 		<main.class>org.camunda.bpm.extension.CamundaApplication</main.class>
 
 		<!-- versions -->
-		<version.camundaKeycloak>2.2.1</version.camundaKeycloak>
+		<version.camundaKeycloak>2.2.3</version.camundaKeycloak>
 		<version.camunda>7.15.0</version.camunda>
 		<version.camundaSpringBoot>7.15.0</version.camundaSpringBoot>
 		<version.camundaConnect>1.2.2</version.camundaConnect><!-- 1.5.0 -->
@@ -253,7 +253,7 @@
 		<dependency>
 			<groupId>org.codehaus.groovy</groupId>
 			<artifactId>groovy-all</artifactId>
-			<version>2.5.8</version>
+			<version>2.5.18</version>
 			<type>pom</type>
 		</dependency>
 
