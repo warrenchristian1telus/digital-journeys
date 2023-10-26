@@ -44,7 +44,7 @@
     "browserslist": "^4.16.6",
     "connected-react-router": "^6.9.1",
     "create-react-class": "^15.7.0",
-    "crypto-js": "^4.0.0",
+    "crypto-js": "^4.2.0",
     "formiojs": "^4.13.1",
     "html2canvas": "^1.4.1",
     "jsonwebtoken": "^8.5.1",
